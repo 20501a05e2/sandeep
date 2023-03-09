@@ -1,5 +1,17 @@
 {
     "name":"github",
     "version": "0.1.1",
-    "main": "sample"
+    "main": "sample",
+    "repository":{
+        "type" : "git",
+        "url":"https://github.com/20501a05e2/sandeep"
+    },
+    "keywords":[
+        "sample","github","psk"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+
 }
